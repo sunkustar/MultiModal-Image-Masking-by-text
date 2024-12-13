@@ -43,11 +43,15 @@ we also tried with some other achitectures and loss functions details are mentio
 ## Sample Results
 
 Sample Result:
-![Sample Result]()
 ![image](https://github.com/user-attachments/assets/0996ca8f-3077-4619-9724-e33176cf0b28)
 ![image](https://github.com/user-attachments/assets/03e57903-892b-4ffa-8ccb-bf026f90ec3d)
 ![image](https://github.com/user-attachments/assets/a54218e0-ed84-4e73-ab82-c01bac5097e5)
 
+
+## Try it 
+
+download the models from drive link given models.txt
+use environment.yml to create compatable conda env
 
 
 ## Acknowledgments
